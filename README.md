@@ -10,6 +10,7 @@ The project is modular, easy to understand, and follows proper Python project st
 
 ##  Project Structure
 
+```text
 sales-analytics-system/
 │
 ├── analysis/
