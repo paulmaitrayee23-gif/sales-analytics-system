@@ -34,7 +34,7 @@ sales-analytics-system/
 ├── main.py                      # Main execution script
 ├── requirements.txt             # External dependencies
 └── README.md
-
+```
 ---
 
 ##  Features Implemented
