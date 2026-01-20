@@ -10,6 +10,7 @@ The project is modular, easy to understand, and follows proper Python project st
 
 ##  Project Structure
 
+```text
 sales-analytics-system/
 │
 ├── analysis/
@@ -33,7 +34,7 @@ sales-analytics-system/
 ├── main.py                      # Main execution script
 ├── requirements.txt             # External dependencies
 └── README.md
-
+```
 ---
 
 ##  Features Implemented
