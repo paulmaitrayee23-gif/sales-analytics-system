@@ -97,4 +97,18 @@ pip install requests
 
 ---
 
+## Assumptions
 
+- The input file sales_data.txt is present inside the data/ directory.
+- The sales data follows the expected delimiter and column order.
+- Product IDs in sales data are valid and match the API product mapping.
+- Date values in the sales data are in a consistent YYYY-MM-DD format.
+- Internet connection is available while enriching data using the API.
+
+## Limitations
+
+- The system does not handle real-time or streaming sales data.
+- API failures are logged but not retried automatically.
+- Large datasets may impact performance as data is processed in-memory.
+- No graphical visualizations are generated; output is text-based only.
+- The project currently supports only one input data format.
